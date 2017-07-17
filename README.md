@@ -1,2 +1,2 @@
 # BTC-210
-Centriq Agile Use Case Workshop
+Agile Use Case Workshop

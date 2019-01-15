@@ -1,0 +1,5 @@
+#http://yuml.me
+
+[Project manager]-(Update project labor control)
+[Corporate payroll manager]-(Post payroll journal)
+[Admin]-(View log data)

@@ -1,9 +1,0 @@
-http://sequencediagram.org/
-
-title Buy Product with CC
-
-Customer->VM: View product
-Customer->VM: Select product
-Customer->VM: Select CC payment method
-VM->CC Auth: request auth
-VM->HQ: send transaction
